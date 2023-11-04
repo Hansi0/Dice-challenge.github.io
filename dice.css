@@ -1,0 +1,27 @@
+.container {
+    color: rgb(192, 64, 18);
+    font-size: large;
+    font-size: 80%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #393E46;
+
+    text-decoration-color: brown;
+}
+
+footer {
+    text-align: center;
+    font-size: larger;
+    background-color: blue;
+    text-decoration: dotted;
+}
+
+h1 {
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: #4ECCA3;
+}
